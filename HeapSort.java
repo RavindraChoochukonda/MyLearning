@@ -17,6 +17,7 @@ public class HeapSort {
         }
 
     }
+    //Changes in local
 
     public void heapify(int[] a,int n,int i){
         int max = i;
